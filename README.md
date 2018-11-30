@@ -1,4 +1,4 @@
-[![travis](https://travis-ci.org/SebastianHollizeck/biodemo.svg?branch=master)](https://travis-ci.org/SebastianHollizeck/biodemo)
+[![travis](https://travis-ci.org/SebastianHollizeck/biodemo.svg?branch=master)](https://travis-ci.org/SebastianHollizeck/biodemo) [![codecov](https://codecov.io/github/d-cameron/biodaniel/branch/master/graphs/badge.svg)](https://codecov.io/github/d-cameron/biodaniel)
 
 # Overview 
 
