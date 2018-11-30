@@ -1,3 +1,4 @@
 [paths]
-source = biodemo/
+source = .coverage
+	functional_tests/test_data/.coverage
 
