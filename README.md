@@ -14,7 +14,7 @@ This program is released as open source software under the terms of [MIT License
 
 Clone this repository: 
 ```
-$ git clone https://github.com/USERNAME/biodemo
+$ git clone https://github.com/SebastianHollizeck/biodemo
 ```
 
 Move into the repository directory:
@@ -191,4 +191,4 @@ two_sequence.fasta      2       357     120     178     237
 
 Please submit bug reports and feature requests to the issue tracker on GitHub:
 
-[biodemo issue tracker](https://github.com/USERNAME/biodemo/issues)
+[biodemo issue tracker](https://github.com/SebastianHollizeck/biodemo/issues)
